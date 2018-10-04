@@ -1,0 +1,70 @@
+nginstall winditydownloader::
+install apache di PC jembatan
+
+/////////////////////////////////////////////
+di var/www/ bikin folder baru misal getcuaca
+masuk ksana trus git clone yg downloader
+bikin folder "hasil"
+ganti configurasinya sudo nano downloader.sh dan downloadsadewa.sh output ke '/var/www/getcuaca/hasil'
+
+chmod 777 -R /var/www/getcuaca/
+
+cara RUN: /.downloader.sh
+
+klo di web keblok (no "allow control origin") ubah 
+sudo nano /etc/apache2/apache2.conf
+	
+	<Directory /var/www/html/getcuaca/hasil>
+		Header set Access-Control-Allow-Origin "*"
+	</Directory>
+
+habis itu "sudo a2enmod headers"
+baru restart apachenya "sudo service apache2 restart"
+
+
+jalanin scheduler, petunjuk lengkapnya ada disini
+http://www.howtogeek.com/101288/how-to-schedule-tasks-on-linux-an-introduction-to-crontab-files/
+
+crontab -e
+1 0 * * * /var/www/getcuaca/downloader.sh
+(jalanin tiap hari jam 00 menit 01 downloader.sh)
+
+1 0,6,12,18 * * * /var/www/getcuaca/downloadsadewa.sh
+(jalanin tiap hari jam 00,06,12,18 menit 01 downloadsadewa.sh)
+
+
+
+		<option value="wrf/psf17.png">Jam 00.00 WIB</option>
+		<option value="wrf/psf18.png">Jam 01.00 WIB</option>
+		<option value="wrf/psf19.png">Jam 02.00 WIB</option>
+		<option value="wrf/psf20.png">Jam 03.00 WIB</option>
+		<option value="wrf/psf21.png">Jam 04.00 WIB</option>
+		<option value="wrf/psf22.png">Jam 05.00 WIB</option>
+		<option value="wrf/psf23.png">Jam 06.00 WIB</option>
+		<option value="wrf/psf00.png">Jam 07.00 WIB</option>
+		<option value="wrf/psf01.png">Jam 08.00 WIB</option>
+		<option value="wrf/psf02.png">Jam 09.00 WIB</option>
+		<option value="wrf/psf03.png">Jam 10.00 WIB</option>
+		<option value="wrf/psf04.png">Jam 11.00 WIB</option>
+		<option value="wrf/psf05.png">Jam 12.00 WIB</option>
+		<option value="wrf/psf06.png">Jam 13.00 WIB</option>
+		<option value="wrf/psf07.png">Jam 14.00 WIB</option>
+		<option value="wrf/psf08.png">Jam 15.00 WIB</option>
+		<option value="wrf/psf09.png">Jam 16.00 WIB</option>
+		<option value="wrf/psf10.png">Jam 17.00 WIB</option>
+		<option value="wrf/psf11.png">Jam 18.00 WIB</option>
+		<option value="wrf/psf12.png">Jam 19.00 WIB</option>
+		<option value="wrf/psf13.png">Jam 20.00 WIB</option>
+		<option value="wrf/psf14.png">Jam 21.00 WIB</option>
+		<option value="wrf/psf15.png">Jam 22.00 WIB</option>
+		<option value="wrf/psf16.png">Jam 23.00 WIB</option>
+
+var rainBounds = new google.maps.LatLngBounds( 
+      new google.maps.LatLng(-70.00,70.00),
+      new google.maps.LatLng(70.00,210.00));
+
+rainPredBounds = new google.maps.LatLngBounds(
+  new google.maps.LatLng(-10.00,95.00),
+  new google.maps.LatLng(10.00,145.00));
+      
+

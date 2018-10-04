@@ -1,0 +1,203 @@
+<?xml version="1.0"?>
+<Infogempa>
+  <Gempa>
+     <Tanggal>04/10/2018-04:49:46 WIB</Tanggal>
+     <point><coordinates>5.37, 95.12</coordinates></point>
+     <Posisi>5.37 LU 95.12 BT</Posisi>
+     <Magnitude>4.1</Magnitude>
+     <Kedalaman>77 Km</Kedalaman>
+     <_symbol>../gambar/k1.gif</_symbol>
+     <Keterangan>Pusat gempa berada di darat 40 km arah barat daya kab.Aceh Besar</Keterangan>
+     <Dirasakan> II	Banda Aceh,</Dirasakan>
+  </Gempa>
+  <Gempa>
+     <Tanggal>03/10/2018-20:25:21 WIB</Tanggal>
+     <point><coordinates>-3.76, 123.03</coordinates></point>
+     <Posisi>3.76 LS 123.03 BT</Posisi>
+     <Magnitude>3.9</Magnitude>
+     <Kedalaman>10 Km</Kedalaman>
+     <_symbol>../gambar/k1.gif</_symbol>
+     <Keterangan>Pusat gempa berada di laut 50.7 km TimurLaut Kendari   </Keterangan>
+     <Dirasakan> II	Wawonii, II	Kendari,</Dirasakan>
+  </Gempa>
+  <Gempa>
+     <Tanggal>03/10/2018-19:38:07 WIB</Tanggal>
+     <point><coordinates>-10.47, 120.16</coordinates></point>
+     <Posisi>10.4 LS 120.16 BT</Posisi>
+     <Magnitude>5.4</Magnitude>
+     <Kedalaman>10 Km</Kedalaman>
+     <_symbol>../gambar/k1.gif</_symbol>
+     <Keterangan>Pusat gempa berada di Laut 58 km Barat Daya Sumba Timur </Keterangan>
+     <Dirasakan> II-III	Waingapu, I-II	Labuan Bajo,</Dirasakan>
+  </Gempa>
+  <Gempa>
+     <Tanggal>03/10/2018-13:14:13 WIB</Tanggal>
+     <point><coordinates>-2.16, 120.86</coordinates></point>
+     <Posisi>2.16 LS 120.86 BT</Posisi>
+     <Magnitude>4.8</Magnitude>
+     <Kedalaman>10 Km</Kedalaman>
+     <_symbol>../gambar/k1.gif</_symbol>
+     <Keterangan>Pusat gempa berada di darat 58 km baratlaut Luwu Timur  </Keterangan>
+     <Dirasakan> II	Masamba, II	Palopo,</Dirasakan>
+  </Gempa>
+  <Gempa>
+     <Tanggal>03/10/2018-12:39:56 WIB</Tanggal>
+     <point><coordinates>-3.94, 122.98</coordinates></point>
+     <Posisi>3.94 LS 122.98 BT</Posisi>
+     <Magnitude>3.2</Magnitude>
+     <Kedalaman>9 Km</Kedalaman>
+     <_symbol>../gambar/k1.gif</_symbol>
+     <Keterangan>Pusat gempa berada di laut 41 km timurlaut Kendari   </Keterangan>
+     <Dirasakan> II	Kab. Konawe Kepulauan,</Dirasakan>
+  </Gempa>
+  <Gempa>
+     <Tanggal>03/10/2018-10:26:20 WIB</Tanggal>
+     <point><coordinates>-3.5, 122.78</coordinates></point>
+     <Posisi>3.5 LS 122.78 BT</Posisi>
+     <Magnitude>3.4</Magnitude>
+     <Kedalaman>11 Km</Kedalaman>
+     <_symbol>../gambar/k1.gif</_symbol>
+     <Keterangan>Pusat gempa berada di laut 54 km timurlaut Kendari   </Keterangan>
+     <Dirasakan> II	Konawe Utara,</Dirasakan>
+  </Gempa>
+  <Gempa>
+     <Tanggal>03/10/2018-04:12:21 WIB</Tanggal>
+     <point><coordinates>-3.44, 122.86</coordinates></point>
+     <Posisi>3.44 LS 122.86 BT</Posisi>
+     <Magnitude>3.8</Magnitude>
+     <Kedalaman>11 Km</Kedalaman>
+     <_symbol>../gambar/k1.gif</_symbol>
+     <Keterangan>Pusat gempa berada di laut 64 km timurlaut Kendari   </Keterangan>
+     <Dirasakan> II	Konawe Utara,</Dirasakan>
+  </Gempa>
+  <Gempa>
+     <Tanggal>03/10/2018-04:06:56 WIB</Tanggal>
+     <point><coordinates>-1.02, 120.08</coordinates></point>
+     <Posisi>1.02 LS 120.08 BT</Posisi>
+     <Magnitude>4.7</Magnitude>
+     <Kedalaman>10 Km</Kedalaman>
+     <_symbol>../gambar/k1.gif</_symbol>
+     <Keterangan>Pusat gempa berada di Darat 20 km Tenggara Palu   </Keterangan>
+     <Dirasakan> III-IV	Palu,</Dirasakan>
+  </Gempa>
+  <Gempa>
+     <Tanggal>02/10/2018-17:07:15 WIB</Tanggal>
+     <point><coordinates>-3.82, 128.17</coordinates></point>
+     <Posisi>3.82 LS 128.17 BT</Posisi>
+     <Magnitude>2.4</Magnitude>
+     <Kedalaman>10 Km</Kedalaman>
+     <_symbol>../gambar/k1.gif</_symbol>
+     <Keterangan>Pusat gempa berada di Laut 12 km Selatan Ambon   </Keterangan>
+     <Dirasakan> I-II	Latuhalat-Ambon,</Dirasakan>
+  </Gempa>
+  <Gempa>
+     <Tanggal>02/10/2018-16:45:20 WIB</Tanggal>
+     <point><coordinates>-2.1, 121.09</coordinates></point>
+     <Posisi>2.1 LS 121.09 BT</Posisi>
+     <Magnitude>4.8</Magnitude>
+     <Kedalaman>10 Km</Kedalaman>
+     <_symbol>../gambar/k1.gif</_symbol>
+     <Keterangan>Pusat gempa berada di Darat 54 km Barat Laut luwu timur </Keterangan>
+     <Dirasakan> II-III	Sorowako,</Dirasakan>
+  </Gempa>
+  <Gempa>
+     <Tanggal>02/10/2018-14:56:11 WIB</Tanggal>
+     <point><coordinates>-0.5, 119.83</coordinates></point>
+     <Posisi>0.5 LS 119.83 BT</Posisi>
+     <Magnitude>4.6</Magnitude>
+     <Kedalaman>8 Km</Kedalaman>
+     <_symbol>../gambar/k1.gif</_symbol>
+     <Keterangan>Pusat gempa berada di Darat 6 km Barat Laut DONGGALA  </Keterangan>
+     <Dirasakan> III-IV	Palu,</Dirasakan>
+  </Gempa>
+  <Gempa>
+     <Tanggal>02/10/2018-14:49:59 WIB</Tanggal>
+     <point><coordinates>-8.43, 115.97</coordinates></point>
+     <Posisi>8.43 LS 115.97 BT</Posisi>
+     <Magnitude>3.2</Magnitude>
+     <Kedalaman>10 Km</Kedalaman>
+     <_symbol>../gambar/k1.gif</_symbol>
+     <Keterangan>Pusat gempa berada di Laut 28 km BaratLaut LOMBOKBARAT   </Keterangan>
+     <Dirasakan> II	Mataram,</Dirasakan>
+  </Gempa>
+  <Gempa>
+     <Tanggal>02/10/2018-14:01:08 WIB</Tanggal>
+     <point><coordinates>-10.61, 120.25</coordinates></point>
+     <Posisi>10.6 LS 120.25 BT</Posisi>
+     <Magnitude>4.9</Magnitude>
+     <Kedalaman>23 Km</Kedalaman>
+     <_symbol>../gambar/k1.gif</_symbol>
+     <Keterangan>Pusat gempa berada di Laut 70 km baratdaya SUMBATIMUR   </Keterangan>
+     <Dirasakan> II	Waingapu, II	Tambolaka,</Dirasakan>
+  </Gempa>
+  <Gempa>
+     <Tanggal>02/10/2018-11:49:31 WIB</Tanggal>
+     <point><coordinates>-10.54, 120.16</coordinates></point>
+     <Posisi>10.5 LS 120.16 BT</Posisi>
+     <Magnitude>5.9</Magnitude>
+     <Kedalaman>10 Km</Kedalaman>
+     <_symbol>../gambar/k1.gif</_symbol>
+     <Keterangan>Pusat gempa berada di laut 65 km BaratDaya SUMBA TIMUR  </Keterangan>
+     <Dirasakan> III	Waingapu, III-IV	Tambolaka, III	Sumbawa , II	Sumba Barat, II	Lombok Barat, II	Mataram, III	Bima,</Dirasakan>
+  </Gempa>
+  <Gempa>
+     <Tanggal>02/10/2018-07:16:44 WIB</Tanggal>
+     <point><coordinates>-10.57, 120.22</coordinates></point>
+     <Posisi>10.5 LS 120.22 BT</Posisi>
+     <Magnitude>6.3</Magnitude>
+     <Kedalaman>10 Km</Kedalaman>
+     <_symbol>../gambar/k1.gif</_symbol>
+     <Keterangan>Pusat gempa berada di laut 66 km baratDaya Sumba Timur  </Keterangan>
+     <Dirasakan> IV	Waingapu, II-III	Tambolaka, III	Bima, III	Dompu, VI	Baing, V	Haharu, II-III	Nihiwatu, II-III	Waikelo,</Dirasakan>
+  </Gempa>
+  <Gempa>
+     <Tanggal>02/10/2018-06:59:42 WIB</Tanggal>
+     <point><coordinates>-10.57, 120.25</coordinates></point>
+     <Posisi>10.5 LS 120.25 BT</Posisi>
+     <Magnitude>6</Magnitude>
+     <Kedalaman>10 Km</Kedalaman>
+     <_symbol>../gambar/k1.gif</_symbol>
+     <Keterangan>Pusat gempa berada di laut 66 km Baratdaya Sumba Timur  </Keterangan>
+     <Dirasakan> IV	Waingapu, IV	Tambolaka,</Dirasakan>
+  </Gempa>
+  <Gempa>
+     <Tanggal>02/10/2018-06:46:41 WIB</Tanggal>
+     <point><coordinates>-0.57, 119.81</coordinates></point>
+     <Posisi>0.57 LS 119.81 BT</Posisi>
+     <Magnitude>5.3</Magnitude>
+     <Kedalaman>10 Km</Kedalaman>
+     <_symbol>../gambar/k1.gif</_symbol>
+     <Keterangan>Pusat gempa berada di darat 16 km tenggara Donggala   </Keterangan>
+     <Dirasakan> II-III	Palu,</Dirasakan>
+  </Gempa>
+  <Gempa>
+     <Tanggal>02/10/2018-06:27:06 WIB</Tanggal>
+     <point><coordinates>-10.48, 120.24</coordinates></point>
+     <Posisi>10.4 LS 120.24 BT</Posisi>
+     <Magnitude>5.3</Magnitude>
+     <Kedalaman>10 Km</Kedalaman>
+     <_symbol>../gambar/k1.gif</_symbol>
+     <Keterangan>Pusat gempa berada di laut 56 km BaratDaya Sumba Timur  </Keterangan>
+     <Dirasakan> III	Waingapu, III	Tambolaka,</Dirasakan>
+  </Gempa>
+  <Gempa>
+     <Tanggal>02/10/2018-06:12:03 WIB</Tanggal>
+     <point><coordinates>-10.56, 120.2</coordinates></point>
+     <Posisi>10.5 LS 120.2 BT</Posisi>
+     <Magnitude>5.2</Magnitude>
+     <Kedalaman>10 Km</Kedalaman>
+     <_symbol>../gambar/k1.gif</_symbol>
+     <Keterangan>Pusat gempa berada di laut 66 km barat daya Sumba Timur </Keterangan>
+     <Dirasakan> II-III	Waingapu,</Dirasakan>
+  </Gempa>
+  <Gempa>
+     <Tanggal>02/10/2018-01:05:54 WIB</Tanggal>
+     <point><coordinates>-0.48, 120.22</coordinates></point>
+     <Posisi>0.48 LS 120.22 BT</Posisi>
+     <Magnitude>3.8</Magnitude>
+     <Kedalaman>10 Km</Kedalaman>
+     <_symbol>../gambar/k1.gif</_symbol>
+     <Keterangan>Pusat gempa berada di laut 43 km Tenggara Donggala   </Keterangan>
+     <Dirasakan> II	Palu,</Dirasakan>
+  </Gempa>
+</Infogempa>

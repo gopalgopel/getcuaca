@@ -1,0 +1,4 @@
+ 
+renaming cuaca.json to 20180918cuaca.json
+mv: cannot stat ‘/var/www/html/getcuaca/bin/hasil/cuaca.json’: No such file or directory
+hapus data cuaca 30 hari yg lalu

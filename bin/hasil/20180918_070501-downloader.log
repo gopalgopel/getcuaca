@@ -1,0 +1,18 @@
+ 
+Downloading to /var/www/html/getcuaca/bin/hasil/20180918cuaca.grib2
+from http://nomads.ncep.noaa.gov/cgi-bin/filter_wave_multi.pl?file=multi_1.glo_30mext.t00z.f000.grib2&lev_surface=on&var_DIRPW=on&var_HTSGW=on&var_UGRD=on&var_VGRD=on&leftlon=0&rightlon=359&toplat=90&bottomlat=-77&dir=%2Fmulti_1.20180918
+Download data gempa dari BMKG!
+ 
+convert 20180918cuaca.grib2 to cuaca.json
+java.io.IOException: java.io.IOException: Cant read /var/www/html/getcuaca/bin/hasil/20180918cuaca.grib2: not a valid CDM file.
+	at ucar.nc2.NetcdfFile.open(NetcdfFile.java:425)
+	at ucar.nc2.NetcdfFile.open(NetcdfFile.java:392)
+	at ucar.nc2.NetcdfFile.open(NetcdfFile.java:379)
+	at ucar.nc2.NetcdfFile.open(NetcdfFile.java:367)
+	at net.nullschool.grib2json.Grib2Json.write(Grib2Json.java:114)
+	at net.nullschool.grib2json.Launcher.main(Launcher.java:75)
+Caused by: java.io.IOException: Cant read /var/www/html/getcuaca/bin/hasil/20180918cuaca.grib2: not a valid CDM file.
+	at ucar.nc2.NetcdfFile.open(NetcdfFile.java:803)
+	at ucar.nc2.NetcdfFile.open(NetcdfFile.java:422)
+	... 5 more
+converting is DONE!

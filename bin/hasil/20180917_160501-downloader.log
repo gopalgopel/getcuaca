@@ -1,0 +1,8 @@
+ 
+Downloading to /var/www/html/getcuaca/bin/hasil/20180917cuaca.grib2
+from http://nomads.ncep.noaa.gov/cgi-bin/filter_wave_multi.pl?file=multi_1.glo_30mext.t00z.f000.grib2&lev_surface=on&var_DIRPW=on&var_HTSGW=on&var_UGRD=on&var_VGRD=on&leftlon=0&rightlon=359&toplat=90&bottomlat=-77&dir=%2Fmulti_1.20180917
+Download data gempa dari BMKG!
+ 
+convert 20180917cuaca.grib2 to cuaca.json
+16:05:31.291 [main] DEBUG ucar.grib.grib2.ParameterTable - ParameterTable: UnknownDiscipline 2040
+converting is DONE!

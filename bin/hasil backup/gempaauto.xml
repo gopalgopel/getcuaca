@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<Infogempa>
+ <gempa>
+  <Tanggal>25-Apr-17</Tanggal>
+  <Jam>04:28:56 WIB</Jam>
+  <point><coordinates>105.36,-6.17</coordinates></point>
+  <Lintang>6.17 LS</Lintang>
+  <Bujur>105.36 BT</Bujur>
+  <Magnitude>5.1 SR</Magnitude>
+  <Kedalaman>10 Km</Kedalaman>
+  <_symbol>imagesSWF/m2b.swf</_symbol>
+  <Wilayah1>70 km BaratDaya LAMPUNGSELATAN</Wilayah1>
+  <Wilayah2>76 km BaratDaya CILEGON-BANTEN</Wilayah2>
+  <Wilayah3>81 km Tenggara PESAWARAN-LAMPUNG</Wilayah3>
+  <Wilayah4>87 km Tenggara BDRLAMPUNG-LAMPUNG</Wilayah4>
+  <Wilayah5>162 km BaratLaut JAKARTA-INDONESIA</Wilayah5>
+  <Potensi>tidak berpotensi TSUNAMI</Potensi>
+ </gempa>
+</Infogempa>

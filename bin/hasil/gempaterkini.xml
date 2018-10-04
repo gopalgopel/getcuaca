@@ -1,0 +1,663 @@
+<?xml version="1.0"?>
+<Infogempa>
+ <gempa>
+  <Tanggal>03-Oct-18</Tanggal>
+  <Jam>19:38:07 WIB</Jam>
+  <point><coordinates>120.16,-10.47</coordinates></point>
+  <Lintang>10.47 LS</Lintang>
+  <Bujur>120.16 BT</Bujur>
+  <Magnitude>5.4 SR</Magnitude>
+  <Kedalaman>10 Km</Kedalaman>
+  <_symbol>../imagesSWF/m2b.swf</_symbol>
+  <Wilayah>58 km BaratDaya SUMBATIMUR-NTT</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>03-Oct-18</Tanggal>
+  <Jam>16:58:09 WIB</Jam>
+  <point><coordinates>120.36,-10.41</coordinates></point>
+  <Lintang>10.41 LS</Lintang>
+  <Bujur>120.36 BT</Bujur>
+  <Magnitude>5.1 SR</Magnitude>
+  <Kedalaman>10 Km</Kedalaman>
+  <_symbol>../imagesSWF/m2.swf</_symbol>
+  <Wilayah>47 km Tenggara SUMBATIMUR-NTT</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>02-Oct-18</Tanggal>
+  <Jam>11:59:26 WIB</Jam>
+  <point><coordinates>120.2,-1.59</coordinates></point>
+  <Lintang>1.59 LS</Lintang>
+  <Bujur>120.2 BT</Bujur>
+  <Magnitude>5.3 SR</Magnitude>
+  <Kedalaman>10 Km</Kedalaman>
+  <_symbol>../imagesSWF/m2.swf</_symbol>
+  <Wilayah>41 km Tenggara SIGI-SULTENG</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>02-Oct-18</Tanggal>
+  <Jam>11:49:31 WIB</Jam>
+  <point><coordinates>120.16,-10.54</coordinates></point>
+  <Lintang>10.54 LS</Lintang>
+  <Bujur>120.16 BT</Bujur>
+  <Magnitude>5.9 SR</Magnitude>
+  <Kedalaman>10 Km</Kedalaman>
+  <_symbol>../imagesSWF/m3.swf</_symbol>
+  <Wilayah>65 km BaratDaya SUMBATIMUR-NTT</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>02-Oct-18</Tanggal>
+  <Jam>07:16:44 WIB</Jam>
+  <point><coordinates>120.22,-10.57</coordinates></point>
+  <Lintang>10.57 LS</Lintang>
+  <Bujur>120.22 BT</Bujur>
+  <Magnitude>6.3 SR</Magnitude>
+  <Kedalaman>10 Km</Kedalaman>
+  <_symbol>../imagesSWF/m3.swf</_symbol>
+  <Wilayah>66 km BaratDaya SUMBATIMUR-NTT</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>02-Oct-18</Tanggal>
+  <Jam>06:59:42 WIB</Jam>
+  <point><coordinates>120.25,-10.57</coordinates></point>
+  <Lintang>10.57 LS</Lintang>
+  <Bujur>120.25 BT</Bujur>
+  <Magnitude>6.0 SR</Magnitude>
+  <Kedalaman>10 Km</Kedalaman>
+  <_symbol>../imagesSWF/m3.swf</_symbol>
+  <Wilayah>66 km BaratDaya SUMBATIMUR-NTT</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>02-Oct-18</Tanggal>
+  <Jam>06:46:41 WIB</Jam>
+  <point><coordinates>119.87,-0.57</coordinates></point>
+  <Lintang>0.57 LS</Lintang>
+  <Bujur>119.87 BT</Bujur>
+  <Magnitude>5.3 SR</Magnitude>
+  <Kedalaman>10 Km</Kedalaman>
+  <_symbol>../imagesSWF/m2.swf</_symbol>
+  <Wilayah>16 km Tenggara DONGGALA-SULTENG</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>02-Oct-18</Tanggal>
+  <Jam>06:27:06 WIB</Jam>
+  <point><coordinates>120.24,-10.48</coordinates></point>
+  <Lintang>10.48 LS</Lintang>
+  <Bujur>120.24 BT</Bujur>
+  <Magnitude>5.3 SR</Magnitude>
+  <Kedalaman>10 Km</Kedalaman>
+  <_symbol>../imagesSWF/m2.swf</_symbol>
+  <Wilayah>56 km BaratDaya SUMBATIMUR-NTT</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>02-Oct-18</Tanggal>
+  <Jam>06:12:03 WIB</Jam>
+  <point><coordinates>120.2,-10.56</coordinates></point>
+  <Lintang>10.56 LS</Lintang>
+  <Bujur>120.2 BT</Bujur>
+  <Magnitude>5.2 SR</Magnitude>
+  <Kedalaman>10 Km</Kedalaman>
+  <_symbol>../imagesSWF/m2.swf</_symbol>
+  <Wilayah>66 km BaratDaya SUMBATIMUR-NTT</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>02-Oct-18</Tanggal>
+  <Jam>00:39:02 WIB</Jam>
+  <point><coordinates>119.87,-0.55</coordinates></point>
+  <Lintang>0.55 LS</Lintang>
+  <Bujur>119.87 BT</Bujur>
+  <Magnitude>5.0 SR</Magnitude>
+  <Kedalaman>11 Km</Kedalaman>
+  <_symbol>../imagesSWF/m2.swf</_symbol>
+  <Wilayah>14 km Tenggara DONGGALA-SULTENG</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>01-Oct-18</Tanggal>
+  <Jam>21:11:48 WIB</Jam>
+  <point><coordinates>124.12,-9.06</coordinates></point>
+  <Lintang>9.06 LS</Lintang>
+  <Bujur>124.12 BT</Bujur>
+  <Magnitude>5.0 SR</Magnitude>
+  <Kedalaman>16 Km</Kedalaman>
+  <_symbol>../imagesSWF/m2.swf</_symbol>
+  <Wilayah>68 km BaratLaut TIMORTENGAHUT-NTT</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>01-Oct-18</Tanggal>
+  <Jam>12:43:35 WIB</Jam>
+  <point><coordinates>119.55,0.06</coordinates></point>
+  <Lintang>0.06 LU</Lintang>
+  <Bujur>119.55 BT</Bujur>
+  <Magnitude>5.5 SR</Magnitude>
+  <Kedalaman>10 Km</Kedalaman>
+  <_symbol>../imagesSWF/m3.swf</_symbol>
+  <Wilayah>62 km BaratLaut DONGGALA-SULTENG</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>30-Sep-18</Tanggal>
+  <Jam>21:38:44 WIB</Jam>
+  <point><coordinates>120.1,-1.18</coordinates></point>
+  <Lintang>1.18 LS</Lintang>
+  <Bujur>120.1 BT</Bujur>
+  <Magnitude>5.1 SR</Magnitude>
+  <Kedalaman>10 Km</Kedalaman>
+  <_symbol>../imagesSWF/m2.swf</_symbol>
+  <Wilayah>33 km TimurLaut SIGI-SULTENG</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>29-Sep-18</Tanggal>
+  <Jam>17:30:20 WIB</Jam>
+  <point><coordinates>120.21,-1.43</coordinates></point>
+  <Lintang>1.43 LS</Lintang>
+  <Bujur>120.21 BT</Bujur>
+  <Magnitude>5.1 SR</Magnitude>
+  <Kedalaman>10 Km</Kedalaman>
+  <_symbol>../imagesSWF/m2.swf</_symbol>
+  <Wilayah>36 km Tenggara SIGI-SULTENG</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>29-Sep-18</Tanggal>
+  <Jam>14:40:15 WIB</Jam>
+  <point><coordinates>120.57,-1.85</coordinates></point>
+  <Lintang>1.85 LS</Lintang>
+  <Bujur>120.57 BT</Bujur>
+  <Magnitude>5.1 SR</Magnitude>
+  <Kedalaman>102 Km</Kedalaman>
+  <_symbol>../imagesSWF/k2.swf</_symbol>
+  <Wilayah>54 km BaratDaya POSO-SULTENG</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>29-Sep-18</Tanggal>
+  <Jam>09:32:52 WIB</Jam>
+  <point><coordinates>120.04,-1.49</coordinates></point>
+  <Lintang>1.49 LS</Lintang>
+  <Bujur>120.04 BT</Bujur>
+  <Magnitude>5.4 SR</Magnitude>
+  <Kedalaman>10 Km</Kedalaman>
+  <_symbol>../imagesSWF/m2.swf</_symbol>
+  <Wilayah>21 km Tenggara SIGI-SULTENG</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>29-Sep-18</Tanggal>
+  <Jam>04:24:02 WIB</Jam>
+  <point><coordinates>120.16,-1.52</coordinates></point>
+  <Lintang>1.52 LS</Lintang>
+  <Bujur>120.16 BT</Bujur>
+  <Magnitude>5.5 SR</Magnitude>
+  <Kedalaman>10 Km</Kedalaman>
+  <_symbol>../imagesSWF/m3.swf</_symbol>
+  <Wilayah>34 km Tenggara SIGI-SULTENG</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>28-Sep-18</Tanggal>
+  <Jam>21:26:01 WIB</Jam>
+  <point><coordinates>119.54,0.03</coordinates></point>
+  <Lintang>0.03 LU</Lintang>
+  <Bujur>119.54 BT</Bujur>
+  <Magnitude>5.4 SR</Magnitude>
+  <Kedalaman>10 Km</Kedalaman>
+  <_symbol>../imagesSWF/m2.swf</_symbol>
+  <Wilayah>60 km BaratLaut DONGGALA-SULTENG</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>28-Sep-18</Tanggal>
+  <Jam>20:35:30 WIB</Jam>
+  <point><coordinates>119.62,0.15</coordinates></point>
+  <Lintang>0.15 LU</Lintang>
+  <Bujur>119.62 BT</Bujur>
+  <Magnitude>5.8 SR</Magnitude>
+  <Kedalaman>10 Km</Kedalaman>
+  <_symbol>../imagesSWF/m3.swf</_symbol>
+  <Wilayah>68 km BaratLaut DONGGALA-SULTENG</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>28-Sep-18</Tanggal>
+  <Jam>19:27:39 WIB</Jam>
+  <point><coordinates>120.28,-0.49</coordinates></point>
+  <Lintang>0.49 LS</Lintang>
+  <Bujur>120.28 BT</Bujur>
+  <Magnitude>5.0 SR</Magnitude>
+  <Kedalaman>10 Km</Kedalaman>
+  <_symbol>../imagesSWF/m2.swf</_symbol>
+  <Wilayah>50 km Tenggara DONGGALA-SULTENG</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>28-Sep-18</Tanggal>
+  <Jam>18:06:52 WIB</Jam>
+  <point><coordinates>119.95,-1.56</coordinates></point>
+  <Lintang>1.56 LS</Lintang>
+  <Bujur>119.95 BT</Bujur>
+  <Magnitude>5.4 SR</Magnitude>
+  <Kedalaman>10 Km</Kedalaman>
+  <_symbol>../imagesSWF/m2.swf</_symbol>
+  <Wilayah>18 km Tenggara SIGI-SULTENG</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>28-Sep-18</Tanggal>
+  <Jam>17:50:28 WIB</Jam>
+  <point><coordinates>120.04,-0.76</coordinates></point>
+  <Lintang>0.76 LS</Lintang>
+  <Bujur>120.04 BT</Bujur>
+  <Magnitude>5.9 SR</Magnitude>
+  <Kedalaman>10 Km</Kedalaman>
+  <_symbol>../imagesSWF/m3.swf</_symbol>
+  <Wilayah>23 km TimurLaut PALU-SULTENG</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>28-Sep-18</Tanggal>
+  <Jam>17:47:45 WIB</Jam>
+  <point><coordinates>119.91,-0.46</coordinates></point>
+  <Lintang>0.46 LS</Lintang>
+  <Bujur>119.91 BT</Bujur>
+  <Magnitude>5.0 SR</Magnitude>
+  <Kedalaman>10 Km</Kedalaman>
+  <_symbol>../imagesSWF/m2.swf</_symbol>
+  <Wilayah>9 km Tenggara DONGGALA-SULTENG</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>28-Sep-18</Tanggal>
+  <Jam>17:39:05 WIB</Jam>
+  <point><coordinates>119.86,-0.54</coordinates></point>
+  <Lintang>0.54 LS</Lintang>
+  <Bujur>119.86 BT</Bujur>
+  <Magnitude>5.5 SR</Magnitude>
+  <Kedalaman>11 Km</Kedalaman>
+  <_symbol>../imagesSWF/m3.swf</_symbol>
+  <Wilayah>13 km Tenggara DONGGALA-SULTENG</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>28-Sep-18</Tanggal>
+  <Jam>17:02:45 WIB</Jam>
+  <point><coordinates>119.89,-0.2</coordinates></point>
+  <Lintang>0.2 LS</Lintang>
+  <Bujur>119.89 BT</Bujur>
+  <Magnitude>7.4 SR</Magnitude>
+  <Kedalaman>11 Km</Kedalaman>
+  <_symbol>../imagesSWF/m3b.swf</_symbol>
+  <Wilayah>25 km TimurLaut DONGGALA-SULTENG</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>28-Sep-18</Tanggal>
+  <Jam>17:25:07 WIB</Jam>
+  <point><coordinates>119.99,-0.93</coordinates></point>
+  <Lintang>0.93 LS</Lintang>
+  <Bujur>119.99 BT</Bujur>
+  <Magnitude>5.9 SR</Magnitude>
+  <Kedalaman>10 Km</Kedalaman>
+  <_symbol>../imagesSWF/m3.swf</_symbol>
+  <Wilayah>12 km Tenggara PALU-SULTENG</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>28-Sep-18</Tanggal>
+  <Jam>17:14:25 WIB</Jam>
+  <point><coordinates>119.94,0.09</coordinates></point>
+  <Lintang>0.09 LU</Lintang>
+  <Bujur>119.94 BT</Bujur>
+  <Magnitude>6.1 SR</Magnitude>
+  <Kedalaman>10 Km</Kedalaman>
+  <_symbol>../imagesSWF/m3.swf</_symbol>
+  <Wilayah>58 km TimurLaut DONGGALA-SULTENG</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>28-Sep-18</Tanggal>
+  <Jam>17:02:44 WIB</Jam>
+  <point><coordinates>119.85,-0.18</coordinates></point>
+  <Lintang>0.18 LS</Lintang>
+  <Bujur>119.85 BT</Bujur>
+  <Magnitude>7.7 SR</Magnitude>
+  <Kedalaman>10 Km</Kedalaman>
+  <_symbol>../imagesSWF/m3.swf</_symbol>
+  <Wilayah>27 km TimurLaut DONGGALA-SULTENG</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>28-Sep-18</Tanggal>
+  <Jam>15:25:00 WIB</Jam>
+  <point><coordinates>119.91,-0.35</coordinates></point>
+  <Lintang>0.35 LS</Lintang>
+  <Bujur>119.91 BT</Bujur>
+  <Magnitude>5.3 SR</Magnitude>
+  <Kedalaman>10 Km</Kedalaman>
+  <_symbol>../imagesSWF/m2.swf</_symbol>
+  <Wilayah>11 km TimurLaut DONGGALA-SULTENG</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>28-Sep-18</Tanggal>
+  <Jam>14:28:37 WIB</Jam>
+  <point><coordinates>119.87,-0.34</coordinates></point>
+  <Lintang>0.34 LS</Lintang>
+  <Bujur>119.87 BT</Bujur>
+  <Magnitude>5.0 SR</Magnitude>
+  <Kedalaman>10 Km</Kedalaman>
+  <_symbol>../imagesSWF/m2.swf</_symbol>
+  <Wilayah>10 km TimurLaut DONGGALA-SULTENG</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>28-Sep-18</Tanggal>
+  <Jam>14:00:00 WIB</Jam>
+  <point><coordinates>119.82,-0.35</coordinates></point>
+  <Lintang>0.35 LS</Lintang>
+  <Bujur>119.82 BT</Bujur>
+  <Magnitude>5.9 SR</Magnitude>
+  <Kedalaman>10 Km</Kedalaman>
+  <_symbol>../imagesSWF/m3.swf</_symbol>
+  <Wilayah>8 km BaratLaut DONGGALA-SULTENG</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>27-Sep-18</Tanggal>
+  <Jam>12:29:01 WIB</Jam>
+  <point><coordinates>131.33,-7.01</coordinates></point>
+  <Lintang>7.01 LS</Lintang>
+  <Bujur>131.33 BT</Bujur>
+  <Magnitude>5.5 SR</Magnitude>
+  <Kedalaman>106 Km</Kedalaman>
+  <_symbol>../imagesSWF/k3.swf</_symbol>
+  <Wilayah>63 km BaratLaut MALUKUTENGGARABRT</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>27-Sep-18</Tanggal>
+  <Jam>00:51:41 WIB</Jam>
+  <point><coordinates>97.85,4.59</coordinates></point>
+  <Lintang>4.59 LU</Lintang>
+  <Bujur>97.85 BT</Bujur>
+  <Magnitude>5.3 SR</Magnitude>
+  <Kedalaman>10 Km</Kedalaman>
+  <_symbol>../imagesSWF/m2.swf</_symbol>
+  <Wilayah>17 km BaratLaut KOTA-LANGSA-ACEH</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>26-Sep-18</Tanggal>
+  <Jam>16:27:45 WIB</Jam>
+  <point><coordinates>133.01,-0.91</coordinates></point>
+  <Lintang>0.91 LS</Lintang>
+  <Bujur>133.01 BT</Bujur>
+  <Magnitude>5.4 SR</Magnitude>
+  <Kedalaman>20 Km</Kedalaman>
+  <_symbol>../imagesSWF/m2.swf</_symbol>
+  <Wilayah>69 km Tenggara TAMBRAUW-PAPUABRT</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>26-Sep-18</Tanggal>
+  <Jam>01:29:46 WIB</Jam>
+  <point><coordinates>142.25,-5.41</coordinates></point>
+  <Lintang>5.41 LS</Lintang>
+  <Bujur>142.25 BT</Bujur>
+  <Magnitude>5.0 SR</Magnitude>
+  <Kedalaman>88 Km</Kedalaman>
+  <_symbol>../imagesSWF/k2.swf</_symbol>
+  <Wilayah>215 km Tenggara PEG-BINTANG-PAPUA</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>23-Sep-18</Tanggal>
+  <Jam>10:09:36 WIB</Jam>
+  <point><coordinates>126.3,0.51</coordinates></point>
+  <Lintang>0.51 LU</Lintang>
+  <Bujur>126.3 BT</Bujur>
+  <Magnitude>5.0 SR</Magnitude>
+  <Kedalaman>10 Km</Kedalaman>
+  <_symbol>../imagesSWF/m2.swf</_symbol>
+  <Wilayah>123 km BaratDaya TERNATE-MALUT</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>23-Sep-18</Tanggal>
+  <Jam>02:16:54 WIB</Jam>
+  <point><coordinates>130.64,-6.82</coordinates></point>
+  <Lintang>6.82 LS</Lintang>
+  <Bujur>130.64 BT</Bujur>
+  <Magnitude>5.0 SR</Magnitude>
+  <Kedalaman>84 Km</Kedalaman>
+  <_symbol>../imagesSWF/k2.swf</_symbol>
+  <Wilayah>112 km BaratLaut MALUKUTENGGARABRT</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>22-Sep-18</Tanggal>
+  <Jam>16:58:23 WIB</Jam>
+  <point><coordinates>138.67,-4.36</coordinates></point>
+  <Lintang>4.36 LS</Lintang>
+  <Bujur>138.67 BT</Bujur>
+  <Magnitude>5.0 SR</Magnitude>
+  <Kedalaman>198 Km</Kedalaman>
+  <_symbol>../imagesSWF/k2.swf</_symbol>
+  <Wilayah>42 km BaratDaya JAYAWIJAYA-PAPUA</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>22-Sep-18</Tanggal>
+  <Jam>06:20:33 WIB</Jam>
+  <point><coordinates>119.83,-0.83</coordinates></point>
+  <Lintang>0.83 LS</Lintang>
+  <Bujur>119.83 BT</Bujur>
+  <Magnitude>5.1 SR</Magnitude>
+  <Kedalaman>10 Km</Kedalaman>
+  <_symbol>../imagesSWF/m2.swf</_symbol>
+  <Wilayah>9 km BaratLaut PALU-SULTENG</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>20-Sep-18</Tanggal>
+  <Jam>09:36:43 WIB</Jam>
+  <point><coordinates>127.64,4.32</coordinates></point>
+  <Lintang>4.32 LU</Lintang>
+  <Bujur>127.64 BT</Bujur>
+  <Magnitude>5.0 SR</Magnitude>
+  <Kedalaman>126 Km</Kedalaman>
+  <_symbol>../imagesSWF/k2.swf</_symbol>
+  <Wilayah>107 km TimurLaut KEP-TALAUD-SULUT</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>16-Sep-18</Tanggal>
+  <Jam>13:54:32 WIB</Jam>
+  <point><coordinates>102.93,-4.91</coordinates></point>
+  <Lintang>4.91 LS</Lintang>
+  <Bujur>102.93 BT</Bujur>
+  <Magnitude>5.1 SR</Magnitude>
+  <Kedalaman>10 Km</Kedalaman>
+  <_symbol>../imagesSWF/m2.swf</_symbol>
+  <Wilayah>57 km BaratDaya KAUR-BENGKULU</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>14-Sep-18</Tanggal>
+  <Jam>22:50:14 WIB</Jam>
+  <point><coordinates>139.05,-2.52</coordinates></point>
+  <Lintang>2.52 LS</Lintang>
+  <Bujur>139.05 BT</Bujur>
+  <Magnitude>5.9 SR</Magnitude>
+  <Kedalaman>112 Km</Kedalaman>
+  <_symbol>../imagesSWF/k3.swf</_symbol>
+  <Wilayah>17 km BaratDaya SARMI-PAPUA</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>14-Sep-18</Tanggal>
+  <Jam>14:51:26 WIB</Jam>
+  <point><coordinates>94.28,6.88</coordinates></point>
+  <Lintang>6.88 LU</Lintang>
+  <Bujur>94.28 BT</Bujur>
+  <Magnitude>5.5 SR</Magnitude>
+  <Kedalaman>126 Km</Kedalaman>
+  <_symbol>../imagesSWF/k3.swf</_symbol>
+  <Wilayah>161 km BaratLaut KOTA-SABANG-ACEH</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>12-Sep-18</Tanggal>
+  <Jam>14:27:48 WIB</Jam>
+  <point><coordinates>102.22,-5.43</coordinates></point>
+  <Lintang>5.43 LS</Lintang>
+  <Bujur>102.22 BT</Bujur>
+  <Magnitude>5.5 SR</Magnitude>
+  <Kedalaman>44 Km</Kedalaman>
+  <_symbol>../imagesSWF/m3.swf</_symbol>
+  <Wilayah>152 km BaratDaya BENGKULUSELATAN</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>11-Sep-18</Tanggal>
+  <Jam>03:22:26 WIB</Jam>
+  <point><coordinates>116.52,-8.41</coordinates></point>
+  <Lintang>8.41 LS</Lintang>
+  <Bujur>116.52 BT</Bujur>
+  <Magnitude>5.3 SR</Magnitude>
+  <Kedalaman>10 Km</Kedalaman>
+  <_symbol>../imagesSWF/m2.swf</_symbol>
+  <Wilayah>12 km BaratLaut LOMBOKTIMUR-NTB</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>10-Sep-18</Tanggal>
+  <Jam>10:50:15 WIB</Jam>
+  <point><coordinates>116.6,-8.18</coordinates></point>
+  <Lintang>8.18 LS</Lintang>
+  <Bujur>116.6 BT</Bujur>
+  <Magnitude>5.0 SR</Magnitude>
+  <Kedalaman>11 Km</Kedalaman>
+  <_symbol>../imagesSWF/m2.swf</_symbol>
+  <Wilayah>37 km TimurLaut LOMBOKTIMUR-NTB</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>09-Sep-18</Tanggal>
+  <Jam>03:18:45 WIB</Jam>
+  <point><coordinates>96.06,2.38</coordinates></point>
+  <Lintang>2.38 LU</Lintang>
+  <Bujur>96.06 BT</Bujur>
+  <Magnitude>5.1 SR</Magnitude>
+  <Kedalaman>27 Km</Kedalaman>
+  <_symbol>../imagesSWF/m2.swf</_symbol>
+  <Wilayah>29 km Tenggara KAB-SIMEULUE-ACEH</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>08-Sep-18</Tanggal>
+  <Jam>03:44:12 WIB</Jam>
+  <point><coordinates>125.06,2.57</coordinates></point>
+  <Lintang>2.57 LU</Lintang>
+  <Bujur>125.06 BT</Bujur>
+  <Magnitude>5.9 SR</Magnitude>
+  <Kedalaman>189 Km</Kedalaman>
+  <_symbol>../imagesSWF/k3.swf</_symbol>
+  <Wilayah>46 km BaratLaut SIAUTAGULANDANGBIARO-SULUT</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>08-Sep-18</Tanggal>
+  <Jam>00:14:36 WIB</Jam>
+  <point><coordinates>116.67,-8.21</coordinates></point>
+  <Lintang>8.21 LS</Lintang>
+  <Bujur>116.67 BT</Bujur>
+  <Magnitude>5.0 SR</Magnitude>
+  <Kedalaman>10 Km</Kedalaman>
+  <_symbol>../imagesSWF/m2.swf</_symbol>
+  <Wilayah>35 km TimurLaut LOMBOKTIMUR-NTB</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>06-Sep-18</Tanggal>
+  <Jam>13:43:09 WIB</Jam>
+  <point><coordinates>116.97,-8.28</coordinates></point>
+  <Lintang>8.28 LS</Lintang>
+  <Bujur>116.97 BT</Bujur>
+  <Magnitude>5.1 SR</Magnitude>
+  <Kedalaman>10 Km</Kedalaman>
+  <_symbol>../imagesSWF/m2.swf</_symbol>
+  <Wilayah>15 km BaratLaut P.SARINGI-NTB</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>06-Sep-18</Tanggal>
+  <Jam>07:13:49 WIB</Jam>
+  <point><coordinates>96.78,0.71</coordinates></point>
+  <Lintang>0.71 LU</Lintang>
+  <Bujur>96.78 BT</Bujur>
+  <Magnitude>5.3 SR</Magnitude>
+  <Kedalaman>14 Km</Kedalaman>
+  <_symbol>../imagesSWF/m2.swf</_symbol>
+  <Wilayah>84 km BaratDaya NIASBARAT-SUMUT</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>02-Sep-18</Tanggal>
+  <Jam>11:11:49 WIB</Jam>
+  <point><coordinates>131.05,-5.61</coordinates></point>
+  <Lintang>5.61 LS</Lintang>
+  <Bujur>131.05 BT</Bujur>
+  <Magnitude>5.5 SR</Magnitude>
+  <Kedalaman>138 Km</Kedalaman>
+  <_symbol>../imagesSWF/k3.swf</_symbol>
+  <Wilayah>186 km BaratLaut MALUKUTENGGARA</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>02-Sep-18</Tanggal>
+  <Jam>07:15:46 WIB</Jam>
+  <point><coordinates>116.4,-8.05</coordinates></point>
+  <Lintang>8.05 LS</Lintang>
+  <Bujur>116.4 BT</Bujur>
+  <Magnitude>5.3 SR</Magnitude>
+  <Kedalaman>14 Km</Kedalaman>
+  <_symbol>../imagesSWF/m2.swf</_symbol>
+  <Wilayah>38 km TimurLaut LOMBOKUTARA-NTB</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>31-Aug-18</Tanggal>
+  <Jam>09:37:15 WIB</Jam>
+  <point><coordinates>116.06,-8.37</coordinates></point>
+  <Lintang>8.37 LS</Lintang>
+  <Bujur>116.06 BT</Bujur>
+  <Magnitude>5.1 SR</Magnitude>
+  <Kedalaman>10 Km</Kedalaman>
+  <_symbol>../imagesSWF/m2.swf</_symbol>
+  <Wilayah>23 km BaratLaut MATARAM-NTB</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>29-Aug-18</Tanggal>
+  <Jam>11:51:14 WIB</Jam>
+  <point><coordinates>118.76,-7.74</coordinates></point>
+  <Lintang>7.74 LS</Lintang>
+  <Bujur>118.76 BT</Bujur>
+  <Magnitude>5.0 SR</Magnitude>
+  <Kedalaman>10 Km</Kedalaman>
+  <_symbol>../imagesSWF/m2.swf</_symbol>
+  <Wilayah>80 km TimurLaut BIMA-NTB</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>29-Aug-18</Tanggal>
+  <Jam>01:36:34 WIB</Jam>
+  <point><coordinates>110.23,-8.97</coordinates></point>
+  <Lintang>8.97 LS</Lintang>
+  <Bujur>110.23 BT</Bujur>
+  <Magnitude>5.8 SR</Magnitude>
+  <Kedalaman>10 Km</Kedalaman>
+  <_symbol>../imagesSWF/m3.swf</_symbol>
+  <Wilayah>112 km BaratDaya GUNUNGKIDUL-DIY</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>28-Aug-18</Tanggal>
+  <Jam>18:55:46 WIB</Jam>
+  <point><coordinates>124.16,-10.94</coordinates></point>
+  <Lintang>10.94 LS</Lintang>
+  <Bujur>124.16 BT</Bujur>
+  <Magnitude>5.1 SR</Magnitude>
+  <Kedalaman>10 Km</Kedalaman>
+  <_symbol>../imagesSWF/m2.swf</_symbol>
+  <Wilayah>104 km Tenggara KUPANG-NTT</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>28-Aug-18</Tanggal>
+  <Jam>14:13:29 WIB</Jam>
+  <point><coordinates>124.09,-10.99</coordinates></point>
+  <Lintang>10.99 LS</Lintang>
+  <Bujur>124.09 BT</Bujur>
+  <Magnitude>5.8 SR</Magnitude>
+  <Kedalaman>10 Km</Kedalaman>
+  <_symbol>../imagesSWF/m3.swf</_symbol>
+  <Wilayah>105 km Tenggara KUPANG-NTT</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>28-Aug-18</Tanggal>
+  <Jam>14:08:10 WIB</Jam>
+  <point><coordinates>124.16,-10.96</coordinates></point>
+  <Lintang>10.96 LS</Lintang>
+  <Bujur>124.16 BT</Bujur>
+  <Magnitude>6.2 SR</Magnitude>
+  <Kedalaman>10 Km</Kedalaman>
+  <_symbol>../imagesSWF/m3.swf</_symbol>
+  <Wilayah>106 km Tenggara KUPANG-NTT</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>26-Aug-18</Tanggal>
+  <Jam>21:33:01 WIB</Jam>
+  <point><coordinates>136.92,-2.91</coordinates></point>
+  <Lintang>2.91 LS</Lintang>
+  <Bujur>136.92 BT</Bujur>
+  <Magnitude>5.3 SR</Magnitude>
+  <Kedalaman>74 Km</Kedalaman>
+  <_symbol>../imagesSWF/k2.swf</_symbol>
+  <Wilayah>28 km Tenggara WAROPEN-PAPUA</Wilayah>
+ </gempa>
+</Infogempa>
